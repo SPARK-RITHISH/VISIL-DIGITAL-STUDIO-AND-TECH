@@ -1,0 +1,1 @@
+export { Route } from '../../chat';

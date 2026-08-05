@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <rect width="100%" height="100%" fill="#0b0b0e" rx="12"/>
+  <rect x="18" y="18" width="1164" height="1764" fill="#111" stroke="#ffca2b" stroke-width="16" rx="18"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffd95c" font-family="Poppins, sans-serif" font-size="48">12x18 inches</text>
+</svg>
